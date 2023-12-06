@@ -5,7 +5,7 @@
 - 🛰️ Ghost in the wire - Kevin Mitnik
 
 
-## 🪲 Bug hunting and pentesting:
+## 🐞 Bug hunting and pentesting:
 - 🔰 Bug Bounty Playbook [ 1 & 2 ] - Alex Thomas
 - 🔰 Bug Bounty Boot-camp - Vicky Li
 - 🔰 Web Application Hacker's Handbook 2 
@@ -28,4 +28,7 @@
 ## ⚙️ Reverse engineering
 - 🔰 Reverse engineering for everyone
 - 🔰 Arm Assembly Internals and Reverse Engineering - Maria Azeria
+
+## 📡 SDR
+- 🔰 The Hobbyist's Guide to the RTL-SDR: Really Cheap Software Defined Radio - Carl Laufer
 
