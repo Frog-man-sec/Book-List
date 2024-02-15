@@ -11,6 +11,18 @@
 - 🔰 Web Application Hacker's Handbook 2 
 - 🔰 zseanos methodology - zseano
 - 🔰 The Hacker Playbook [ 2 & 3 ]
+- 🔰 OWASP Testing Guide V4 (version changes)
+- 🔰
+
+## 🫧 Server and DNS
+- 🔰 The Hidden Potential of DNS in Security
+- 🔰 HTTP the Definitive Guide
+- 🔰 Complete NGINX Cookbook
+- 🔰 Apache Cookbook 
+
+## 🛡 Secure Coding
+- 🔰 OWASP Code Review Guide V2
+- 🔰 
 
 
 ## 🎖️ CTF:
@@ -19,11 +31,13 @@
 ## 📜 Scripting:
 - 🔰 Learning the Bash Shell - O'Reilly
 - 🔰 Blackhat Python [ 2nd ed ] - Justin Seitz & Tim Arnold
+- 🔰 Blackhat Go
 - 🔰 The Python 3 standard libraries by example - Doug Hellmann
 - 🔰 Black hat rust - Sylvain Kerkour
 
 ## 📑 API hacking:
 - 🔰 Hacking APIs
+- 🔰 Black Hat GraphQL
 
 ## ⚙️ Reverse engineering
 - 🔰 Reverse engineering for everyone
